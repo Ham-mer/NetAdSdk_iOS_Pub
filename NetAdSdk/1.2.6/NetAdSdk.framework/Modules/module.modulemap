@@ -1,0 +1,6 @@
+framework module NetAdSdk {
+  umbrella header "NetAdSdk.h"
+
+  export *
+  module * { export * }
+}

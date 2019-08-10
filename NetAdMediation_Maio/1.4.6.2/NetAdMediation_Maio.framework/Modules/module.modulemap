@@ -1,0 +1,6 @@
+framework module NetAdMediation_Maio {
+  umbrella header "NetAdMediation_Maio.h"
+
+  export *
+  module * { export * }
+}

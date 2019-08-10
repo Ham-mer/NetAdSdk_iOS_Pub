@@ -1,0 +1,6 @@
+framework module NetAdMediation_AppLovin {
+  umbrella header "NetAdMediation_AppLovin.h"
+
+  export *
+  module * { export * }
+}

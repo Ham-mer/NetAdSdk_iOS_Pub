@@ -1,0 +1,6 @@
+framework module NetAdMediation_UnityAds {
+  umbrella header "NetAdMediation_UnityAds.h"
+
+  export *
+  module * { export * }
+}

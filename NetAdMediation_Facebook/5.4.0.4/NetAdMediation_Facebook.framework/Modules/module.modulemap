@@ -1,0 +1,6 @@
+framework module NetAdMediation_Facebook {
+  umbrella header "NetAdMediation_Facebook.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module NetAdMediation_GoogleAds {
+  umbrella header "NetAdMediation_GoogleAds.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module NetAdMediation_Amazon {
+  umbrella header "NetAdMediation_Amazon.h"
+
+  export *
+  module * { export * }
+}
